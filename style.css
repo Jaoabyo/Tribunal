@@ -1,0 +1,47 @@
+body{
+    margin: 0 ;
+    font-family: 'fredoka';
+    background-size: au;
+}
+.secao-topo{
+    background-image: url(capa.jpg);
+    background-size: cover;
+    background-attachment:fixed ;
+    height: 600px; 
+    text-align: right;
+    padding-right:300px  ;
+    padding-top: 100px;
+}
+.secao-largura-limitada{width: 800px;
+    margin: 0 auto;
+  }
+  
+  .img-conteudo {
+    width: 250px;
+    height: 180px;
+  }
+.banner-divisao{
+  background-image: url(fundo.jpg);
+  text-align: center;
+  padding: 80px 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+.banner-divisao h3{
+    border: 3px solid white;
+    padding: 20px;
+    border-radius: 60px;
+    width: 200px;
+    margin: 0 auto;
+    color: white;
+    font-size:28px;
+}
+
+.sub-destacado{
+    font-weight: bold;
+ 
+}
+
+  span{font-weight: bold;}
